@@ -1,0 +1,182 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "4c09d2fa-11c4-4807-b6d7-bcfd62ac75ae")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 102.87 17.78)
+		(size 74.93 83.82)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "2598248b-f7aa-4ad0-844b-b1b43b86c216")
+		(property "Sheetname" "10 pin front disk backplane connector"
+			(at 102.87 17.0684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "10 pin front disk backplane connector.kicad_sch"
+			(at 102.87 102.1846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "HPE dl360 gen9"
+				(path "/4c09d2fa-11c4-4807-b6d7-bcfd62ac75ae"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 19.05 109.22)
+		(size 154.94 85.09)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "5ac9c2e7-d2d5-4784-a358-452c246cde28")
+		(property "Sheetname" "front panel IO connector"
+			(at 19.05 108.5084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "front panel IO connector.kicad_sch"
+			(at 19.05 194.8946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "HPE dl360 gen9"
+				(path "/4c09d2fa-11c4-4807-b6d7-bcfd62ac75ae"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 180.34 17.78)
+		(size 101.6 83.82)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "de266800-3537-4162-97a1-3bc0a9885bf8")
+		(property "Sheetname" "4 + 6 pin 8SFF backplane connectors"
+			(at 180.34 17.0684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "4 + 6 pin 8SFF backplane connectors.kicad_sch"
+			(at 180.34 102.1846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "HPE dl360 gen9"
+				(path "/4c09d2fa-11c4-4807-b6d7-bcfd62ac75ae"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 19.05 17.78)
+		(size 81.28 83.82)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f4e035dd-18f5-49fb-9f8d-91b91c0a0d37")
+		(property "Sheetname" "fan connector"
+			(at 19.05 17.0684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "fan connector.kicad_sch"
+			(at 19.05 102.1846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "HPE dl360 gen9"
+				(path "/4c09d2fa-11c4-4807-b6d7-bcfd62ac75ae"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
