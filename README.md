@@ -1,11 +1,13 @@
 # HPE-gen9-server-reverse-engineering
 
-#
+# Front
+
 # TO DO
 
-[*] Map the front backplane connector
-[*] Map the port on 8SSF backplane
-[*] Map front IO connector
-[ ] Map the "Smart array connector"
-[ ] Map the main PCIE raiser card port
-[ ] Map the seccondart PCIE raiser card port
+- [x] Map the pinout of front backplane connector
+- [x] Ma  the pinout of port on 8SSF backplane
+- [x] Map the pinout of front IO connector
+- [x] Map the pinout of fan connector 
+- [ ] Map the pinout of "Smart array connector"
+- [ ] Map the pinout of main PCIE raiser card port
+- [ ] Map the pinout of seccondart PCIE raiser card port
