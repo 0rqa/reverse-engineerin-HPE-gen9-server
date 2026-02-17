@@ -1,4 +1,4 @@
-f# HPE-gen9-server-reverse-engineering
+# HPE-gen9-server-reverse-engineering
 
 >[!NOTE]
 > This repo is still under construction. Or as some know WIP
