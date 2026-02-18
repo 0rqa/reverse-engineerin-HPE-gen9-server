@@ -4,7 +4,7 @@
 > This repo is still under construction. Or as some know WIP
 
 # Fan pinout
-
+ - Proprietary HPE connector with pitch of 2mm.
 [![Image](https://github.com/0rqa/reverse-engineerin-HPE-gen9-server/blob/main/pdf/preview/HPE%20dl360%20gen9-fan%20connector.png)](https://github.com/0rqa/reverse-engineerin-HPE-gen9-server/blob/main/pdf/HPE%20dl360%20gen9-fan%20connector.pdf)
 
 # 10pin backplane power connector
