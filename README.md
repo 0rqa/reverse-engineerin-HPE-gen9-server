@@ -89,6 +89,6 @@ Surounding component with silkscreen of U2 = VHC125 TOS - IO buffer, U3 = 74LV16
 - [x] Map the pinout of port on 8SSF backplane
 - [x] Map the pinout of front IO connector
 - [x] Map the pinout of fan connector 
-- [ ] Map the pinout of "Smart array connector"
+- [ ] Map the pinout of "Smart array connector" - P18719-001
 - [ ] Map the pinout of main PCIE raiser card port
 - [ ] Map the pinout of seccondart PCIE raiser card port
